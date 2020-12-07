@@ -61,3 +61,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 
 ![Image 12-6-20 at 9 57 PM](https://user-images.githubusercontent.com/74481469/101314785-27997c80-380e-11eb-8e64-cc30330a4fe3.jpeg)
 
+
+## Election-Audit Summary 
+
+  The current script being used can truly work for any election in the future and can be utilized on all fronts. If we were to look at this past Presidential Election, and analyze the number of votes per candidate throughout all 50 states, we could simply change the "counties" variable to "states" and update the candidate names, etc. It would be really simple. Another example would be if we wanted to analyze a local proposotion iniative, we could simply integrate a "for or against" system which would make the analysis easier. Instead of having multiple canddiates to choose from, it would turn into a yes/no (2 possible results). 
