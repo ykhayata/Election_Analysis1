@@ -15,16 +15,23 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 
 ## Results 
 1: Total Votes
+  
   369,711
 
 2: Counties 
+  
   Jefferson
+  
   Denver
+  
   Arapahoe
 
 3: Candidates 
+  
   Charles Casper Stockham
+  
   Diana DeGette
+  
   Raymon Anthony Doane
 
 4: Votes/Percentage of Votes in each County 
