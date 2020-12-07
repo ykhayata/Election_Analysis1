@@ -58,3 +58,6 @@ A Colorado Board of Elections employee has given me the following tasks to compl
   
       Diana DeGette: 272,892 votes, 73.8% of total votes
 
+
+![Image 12-6-20 at 9 57 PM](https://user-images.githubusercontent.com/74481469/101314785-27997c80-380e-11eb-8e64-cc30330a4fe3.jpeg)
+
